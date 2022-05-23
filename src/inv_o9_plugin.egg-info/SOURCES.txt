@@ -1,0 +1,7 @@
+setup.py
+src/inv_o9_plugin.egg-info/PKG-INFO
+src/inv_o9_plugin.egg-info/SOURCES.txt
+src/inv_o9_plugin.egg-info/dependency_links.txt
+src/inv_o9_plugin.egg-info/not-zip-safe
+src/inv_o9_plugin.egg-info/requires.txt
+src/inv_o9_plugin.egg-info/top_level.txt
